@@ -58,6 +58,9 @@ nav {
     display: flex;
     justify-content: space-between;
     padding: 1rem;
+    position: sticky;
+    top:0;
+    width: 100%;
 }
 
 .logo {
